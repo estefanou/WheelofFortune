@@ -1,0 +1,51 @@
+Alphabet Soup
+Avocados
+Baked Macaroni
+Banana Nut Bread
+Barley Soup
+Birthday Cake
+Biscuits And Gravy
+Bologna Sandwich
+Burger And Fries
+Chocolate Chip Cookies
+Chocolate Milkshake
+Chow Mein
+Cinnamon Rolls
+Coffee
+Eggnog
+Flapjacks
+Fried Chicken
+Gingerbread Cookies
+Ice Cream Cake
+Jalapeno Peppers
+Lentil Soup
+Miso Soup
+Molasses 
+Passion Fruit
+Pita Chips
+Shrimp Scampi
+Tootsie Roll
+Deviled Eggs
+Ahi Tuna Salad
+Applesauce
+Bacon Bits
+BBQ Baked Beans
+Beef Wellington
+Bittersweet Chocolate
+Canned Yams
+Cotton Candy
+Crab Legs
+Ear Of Corn
+Latte
+Espresso
+Italian Sausage
+Apple Cider
+Peas And Carrots
+Pizza
+Spring Rolls
+Sauerkraut
+Salisbury Steak
+Wonton Soup
+Chocolate Pudding
+Red Velvet Cake
+Cream Of Wheat

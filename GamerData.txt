@@ -1,0 +1,4 @@
+How many times each run a player wins
+liz	0
+Computer Player Tom 	 0
+Computer Player Ally	 1

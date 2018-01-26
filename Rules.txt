@@ -1,0 +1,12 @@
+  Welcome to Wheel of Fortune
+Rules of the Game:
+Each round you pick a number 1-5 to choose your category.
+    Food and Drink
+    Fictional Characters
+    Places
+    Song Titles
+    Phrases
+A random phrase within the category will be chosen for you and the two computer players to guess.
+Each time you guess a letter you spin the wheel to get money.
+When you guess correctly, you will get the money, if you guess incorrectly it is the next users turn.
+Good Luck!
